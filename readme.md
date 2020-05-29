@@ -1,6 +1,6 @@
 # JFDI citizen guide
 
-http://codeforamerica.github.com/jfdicitizen/
+http://codeforcroatia.github.io/jfdicitizen/
 
 ## inspired by:
 http://whatthefuckshouldimakefordinner.com
